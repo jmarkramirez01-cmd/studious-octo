@@ -3,7 +3,7 @@
 My first repository im learning how to use git
 ## Description
 This repository is a practice project where i experiment with git commands
-push changes mangae branches it include samples
+push changes manage branches it include samples
 file to help me learn version control
 ## Features
 - Practice creating files
